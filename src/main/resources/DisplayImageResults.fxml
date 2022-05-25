@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.user.searchengine.searchengine.ControllerSearchScreen">
+   <children>
+      <TextField layoutX="14.0" layoutY="28.0" prefHeight="25.0" prefWidth="572.0" />
+      <FlowPane layoutX="18.0" layoutY="73.0" prefHeight="316.0" prefWidth="572.0" />
+   </children>
+</AnchorPane>
